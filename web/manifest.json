@@ -1,0 +1,35 @@
+{
+    "name": "ageverse",
+    "short_name": "ageverse",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "AgeVerse is a modern, AI-powered age calculator and birthday assistant built with Flutter. Designed to go beyond traditional age apps, AgeVerse calculates your exact age down to the second, offers personalized AI insights based on your life stage, and never lets you forget a loved one’s birthday again.  With seamless contact integration, health-based calculators (like BMI and BMR), real-time milestone tracking, and sharable birthday wish cards, AgeVerse transforms your age into a celebration, a stat, and a story.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
